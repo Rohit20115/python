@@ -1,2 +1,2 @@
-Author - Rohit sahu
+# Author - Rohit sahu
 python program
